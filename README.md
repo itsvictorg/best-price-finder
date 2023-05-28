@@ -45,6 +45,8 @@ Before running the application, make sure you have the following installed:
    ```bash
    python price_checker.py
    ```
+   
+   Or open the .exe file
 
 2. Enter the model number of the product you want to search for when prompted.
 
