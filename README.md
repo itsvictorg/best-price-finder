@@ -54,7 +54,7 @@ Before running the application, make sure you have the following installed:
 
 3. The application will retrieve the product information and prices from Google Shopping.
 
-![Screenshot 2023-05-28 180808](https://github.com/itsvictorg/best-price-finder/assets/72170737/512a9452-6ac6-43a4-9b94-aa19db49e33b)
+   ![Screenshot 2023-05-28 180808](https://github.com/itsvictorg/best-price-finder/assets/72170737/512a9452-6ac6-43a4-9b94-aa19db49e33b)
 
 4. The lowest price found from the top results will be displayed, along with the retailer name.
 
