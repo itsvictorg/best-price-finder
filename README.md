@@ -47,10 +47,14 @@ Before running the application, make sure you have the following installed:
    ```
    
    Or open the .exe file
+   
+   ![Screenshot 2023-05-28 180737](https://github.com/itsvictorg/best-price-finder/assets/72170737/0712bfa9-7666-444b-bb8b-978ad0ee7ceb)
 
 2. Enter the model number of the product you want to search for when prompted.
 
 3. The application will retrieve the product information and prices from Google Shopping.
+
+![Screenshot 2023-05-28 180808](https://github.com/itsvictorg/best-price-finder/assets/72170737/512a9452-6ac6-43a4-9b94-aa19db49e33b)
 
 4. The lowest price found from the top results will be displayed, along with the retailer name.
 
